@@ -1,16 +1,16 @@
 {
-  "ownerNumber": ["6285791458996@s.whatsapp.net"],
-  "ownerName": ["Riy"],
-  "botName": "Hinata Hyuga Bot",
-  "youtubeOwner": "https://youtube.com/c/Riy",
-  "donasiDana": "081575886399",
-  "donasiGopay": "081575886399",
+  "ownerNumber": ["6289504998484@s.whatsapp.net"],
+  "ownerName": ["CLOWN STORE"],
+  "botName": "CLOWN BOT",
+  "youtubeOwner": "GAK PUNYA YOUTUBE",
+  "donasiDana": "089504998484",
+  "donasiGopay": "089504998484",
   "sessionName": "session",
   "pathimg": "./media/hinata.jpg",
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 100,
   "gcount": {
-	"prem": 35,
-	"user": 15
+	"prem": 9999999,
+	"user": 100
   }
 }
